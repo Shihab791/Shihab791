@@ -57,11 +57,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubayetislamifti&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetislamifti&layout=compact&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shihab791&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihab791&layout=compact&langs_count=6" height="150" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetislamifti&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shihab791&theme=default" />
 </p>
 
 ---
@@ -69,5 +69,5 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubayetislamifti&theme=flat&title=Followers,Stars,Commit,Repositories" alt="trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shihab791&theme=flat&title=Followers,Stars,Commit,Repositories" alt="trophy" /></a>
 </p>
