@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalamualaikum, I'm Md. Enzamul Haque Shihab</h1>
-<h3 align="center">💻 Passionate Full Stack Developer | Crafting scalable, high-quality APIs and web applications</h3>
+<h3 align="center">💻 Passionate Laravel Developer | Crafting scalable, high-quality APIs and web applications</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rubayetislamifti&label=Profile%20views&color=0e75b6&style=flat" alt="rubayetislamifti" />
