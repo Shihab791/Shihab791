@@ -1,5 +1,5 @@
 <h1 align="center">👋 Assalamualaikum, I'm Md. Enzamul Haque Shihab</h1>
-<h3 align="center">💻 Passionate MERN Developer | Crafting scalable, high-quality APIs and web applications</h3>
+<h3 align="center">💻 Passionate Full Stack Developer | Crafting scalable, high-quality APIs and web applications</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rubayetislamifti&label=Profile%20views&color=0e75b6&style=flat" alt="rubayetislamifti" />
@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on [**E-Commerce**](hhttps://github.com/Shihab791/E-commerce) – a project furniture shopping 
-- 🌱 Learning **RESTFUl API, NextJS, ExpressJS**  
+- 🌱 Learning **RESTFUl API, Laravel**  
 - 💬 Ask me about **React, REST APIs, MySQL, Postman**  
 - 📫 Reach me at: [mdshihab8007@gmail.com](mailto:mdshihab8007@gmail.com)  
 - ⚡ Fun Fact: *I debug more than I sleep 😄*
